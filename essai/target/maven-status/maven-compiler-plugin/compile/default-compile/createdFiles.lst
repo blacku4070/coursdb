@@ -1,0 +1,16 @@
+com\gn\controller\JoueurAffich.class
+com\gn\essai\test\repository\matchRepositoryImpl.class
+com\gn\controller\ui.class
+com\gn\essai\test\entity\Match.class
+services\JoueurServices.class
+com\gn\controller\JoueurController.class
+com\gn\essai\test\DataSourceProvider.class
+com\gn\essai\test\entity\Joueur.class
+com\gn\essai\test\entity\Score.class
+com\gn\essai\test\repository\JoueurRepositoryImpl.class
+com\gn\essai\test\entity\Epreuve.class
+com\gn\essai\test\repository\TournoiRepositoryImpl.class
+services\TournoiService.class
+com\gn\essai\test\repository\scoreRepositoryImpl.class
+services\matchServices.class
+com\gn\essai\test\entity\Tournoi.class
